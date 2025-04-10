@@ -1,0 +1,12 @@
+body{
+    font-family: fantasy, cursive, Brush Script MT;
+    background-color: rgb(51, 45, 38);
+}
+
+h1,h3,h3, .subheading{
+    font-family: fantasy, cursive, Brush Script MT !important;
+}
+
+a:hover{
+    color: rgba(255, 94, 36, 0.707) !important;
+}

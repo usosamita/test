@@ -1,0 +1,37 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(103, 149, 221, 0.5);
+    color: rgb(57, 43, 164);
+}
+a{
+    color: rgb(136, 20, 10);
+    background-color: chartreuse;
+}
+
+h1, h2{text-align: center;}
+
+img{ 
+    border: 15px solid white;
+    padding: 5px;
+    height: 200 px;
+    margin: auto;
+    display: block;
+}
+.rizz {
+    font-family: wingding;
+    color: hotpink;
+    border: 5px dashed yellow;
+    font-size: 400%;
+    font-weight: bolder;
+    background-color: limegreen;
+}
+.rizz:hover{
+    font-size: 450%;
+    color: rebeccapurple;
+    border: 5px solid cyan;
+}
+li{ width: fit-content;}
+li:hover {
+    text-decoration: underline;
+    background-color: rgba(79, 78, 78, 0.508);
+}

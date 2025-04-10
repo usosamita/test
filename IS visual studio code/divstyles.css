@@ -1,0 +1,38 @@
+.common{
+    /* border: 2px solid palevioletred; */
+    position: absolute;
+}
+.nav{
+    position: relative;
+    float: right;
+    font-size: 75%;
+}
+.footer{ 
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    font-size: 50%;
+    font-style: italic;
+    text-align: center;
+    background-color: rgba(40, 51, 61, 0.4);
+}
+.header{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    z-index: -1;
+}
+.content{
+    top: 70px;
+    left: 10%;
+    right: 10%;
+    background-color: rgba(108, 255, 108, 0.4);
+
+}
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/040/890/255/small_2x/ai-generated-empty-wooden-table-on-the-natural-background-for-product-display-free-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
